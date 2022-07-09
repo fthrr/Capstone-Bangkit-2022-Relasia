@@ -1,7 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
+<h3 align="center">
+This Repository Forked from: <a href="https://github.com/junaediakbar/Capstone-Bangkit-2022-Relasia">Relasia App</a>
+
+To see Fathurrahman's work for this Project please refer to: <a href="#cloud-computing-documentation">Cloud Computing Documentation</a>
 <p align="center">
-  <a href="https://github.com/junaediakbar/Capstone-Bangkit-2022-Relasia">
+  <a href="https://github.com/fthrr/Capstone-Bangkit-2022-Relasia">
     <img src="https://www.linkpicture.com/q/Logo_105.png" width='250dp' alt="Logo" >
   </a>
 
@@ -13,7 +17,7 @@
   This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka</strong></a>
    Program.
     <br />
-    <a href="https://github.com/junaediakbar/Capstone-Bangkit-2022-Relasia"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/junaediakbar/Capstone-Bangkit-2022-Relasia"><strong>Explore the original docs »</strong></a>
     <br />
     <br />
     <a href="https://docs.google.com/document/d/1gTVpHvih4-n0Zz15Q_lf2WUzdGcisrBXuGFCLfJ1s6A/edit?usp=sharing">Project Brief</a>
@@ -93,26 +97,35 @@ Our project aims to solve the effectiveness problem by building an application t
   2.  Register your email address
 
 - **Screenshot**
-
+  ### Volunteer Sided App
+  <img src="https://cdn.discordapp.com/attachments/990072695599288360/995323896863658134/Volunteer1.png" alt="Volunteer Sided1" >
+  
+  <img src="https://cdn.discordapp.com/attachments/990072695599288360/995323897098551316/Volunteer2.png" alt="Volunteer Sided2" >
+  
+  ### Helpseeker Sided App
+  <img src="https://cdn.discordapp.com/attachments/990072695599288360/995323897283096637/Helpseeker1.png" alt="Helpseeker Sided App1" >
+  
+  <img src="https://cdn.discordapp.com/attachments/990072695599288360/995323897501208637/Helpseeker2.png" alt="Helpseeker Sided App2" >
+  
 # Documentation
 
 ## Machine Learning Development Documentation
 
-<a href="https://github.com/junaediakbar/Capstone-Bangkit-2022-Relasia/tree/machine-learning/Machine%20Learning">Link for Machine Learning Documentation
+<a href="https://github.com/fthrr/Capstone-Bangkit-2022-Relasia/tree/machine-learning/Machine%20Learning">Link for Machine Learning Documentation
 
 ## Mobile Development Documentation
   
-<a href="https://github.com/junaediakbar/Capstone-Bangkit-2022-Relasia/tree/master/Mobile%20Development">Link for Mobile Development Documentation
+<a href="https://github.com/fthrr/Capstone-Bangkit-2022-Relasia/tree/master/Mobile%20Development">Link for Mobile Development Documentation
 
 ## Cloud Computing Documentation
 
-<a href="https://github.com/junaediakbar/Capstone-Bangkit-2022-Relasia/tree/cc/Cloud%20Computing">Link for Cloud Computing Documentation
+<a href="https://github.com/fthrr/Capstone-Bangkit-2022-Relasia/tree/cc/Cloud%20Computing">Link for Cloud Computing Documentation
   
   ### REST API Documentation
 
   For API documentation, see the following link
   
-  <a href="https://github.com/junaediakbar/Capstone-Bangkit-2022-Relasia/tree/cc/Cloud%20Computing/api">REST API Documentation
+  <a href="https://github.com/fthrr/Capstone-Bangkit-2022-Relasia/tree/cc/Cloud%20Computing/api">REST API Documentation
 
 # Contact
 
