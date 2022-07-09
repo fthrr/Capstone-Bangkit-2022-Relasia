@@ -97,6 +97,8 @@ Our project aims to solve the effectiveness problem by building an application t
   2.  Register your email address
 
 - **Screenshot**
+  ### Project Architecture
+  <img src="https://cdn.discordapp.com/attachments/990072695599288360/995323897945784351/arch.png" alt="Project Arch" >
   ### Volunteer Sided App
   <img src="https://cdn.discordapp.com/attachments/990072695599288360/995323896863658134/Volunteer1.png" alt="Volunteer Sided1" >
   
@@ -118,7 +120,6 @@ Our project aims to solve the effectiveness problem by building an application t
 <a href="https://github.com/fthrr/Capstone-Bangkit-2022-Relasia/tree/master/Mobile%20Development">Link for Mobile Development Documentation
 
 ## Cloud Computing Documentation
-
 <a href="https://github.com/fthrr/Capstone-Bangkit-2022-Relasia/tree/cc/Cloud%20Computing">Link for Cloud Computing Documentation
   
   ### REST API Documentation
@@ -126,6 +127,8 @@ Our project aims to solve the effectiveness problem by building an application t
   For API documentation, see the following link
   
   <a href="https://github.com/fthrr/Capstone-Bangkit-2022-Relasia/tree/cc/Cloud%20Computing/api">REST API Documentation
+  
+  <img src="https://cdn.discordapp.com/attachments/990072695599288360/995323897727696996/Cloud.png" alt="Cloud Services" >
 
 # Contact
 
