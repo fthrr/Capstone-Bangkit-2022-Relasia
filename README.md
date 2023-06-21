@@ -6,7 +6,7 @@ This Repository Forked from: <a href="https://github.com/junaediakbar/Capstone-B
 To see Fathurrahman's work for this Project please refer to: <a href="#cloud-computing-documentation">Cloud Computing Documentation</a>
 <p align="center">
   <a href="https://github.com/fthrr/Capstone-Bangkit-2022-Relasia">
-    <img src="https://www.linkpicture.com/q/Logo_105.png" width='250dp' alt="Logo" >
+    <img src="https://github.com/fthrr/Capstone-Bangkit-2022-Relasia/blob/master/Logo.png" width='250dp' alt="Logo" >
   </a>
 
   <h1 align="center">Relasia</h1>
